@@ -3,8 +3,7 @@ Artificial Intelligence in Project management using risk prediction on completio
 1. Screenshots
 2.Login
 ![Alt text](./screenshots/login.png?raw=true "Login")
-2.Register
-![Alt text](./screenshots/register.png?raw=true "Login")
+
 2.Dashboard
 ![Alt text](./screenshots/dashboard.png?raw=true "Login")
 2.Create Project
